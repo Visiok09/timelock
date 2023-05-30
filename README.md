@@ -1,1 +1,1 @@
-With the help of timelock, we can queue transactions and execute them only after a certain time.
+TimeLock is a contract that publishes a transaction to be executed in the future. After a mimimum waiting period, the transaction can be executed.
